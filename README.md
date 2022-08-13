@@ -8,9 +8,9 @@ Solução: Usar um build com dois estágios.
 ## Primeiro estágio:
 
 * A partir de uma imagem Ubuntu, instala o Goland. 
-* Usando echo cria o arquivo go.
+* Usando echo cria o arquivo fonte golang.
 * Builda a aplicação.
 
 ## Segundo estágio:
 * A partir da imagem scratch, a mesma do hello-world
-* Copia o executavel gerado
+* Copia o executável gerado
