@@ -14,3 +14,7 @@ Solução: Usar um build com dois estágios.
 ## Segundo estágio:
 * A partir da imagem scratch, a mesma do hello-world
 * Copia o executável gerado
+
+## Nome da imagem do DockerHub
+
+leilaalgarve/codeeducation
